@@ -60,3 +60,4 @@ C:\Users\Ahlam\Desktop\webApi\webApiFolder\obj\Debug\netcoreapp3.1\staticwebasse
 C:\Users\Ahlam\Desktop\webApi\webApiFolder\obj\Debug\netcoreapp3.1\webApi.genruntimeconfig.cache
 C:\Users\Ahlam\Desktop\webApi\webApiFolder\bin\Debug\netcoreapp3.1\modules.dll
 C:\Users\Ahlam\Desktop\webApi\webApiFolder\bin\Debug\netcoreapp3.1\modules.pdb
+C:\Users\Ahlam\Desktop\webApi\webApiFolder\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
