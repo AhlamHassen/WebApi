@@ -130,6 +130,16 @@
             "rid": "win"
           }
         }
+      },
+      "modules/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/modules.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/modules.dll": {}
+        }
       }
     }
   },
@@ -446,11 +456,17 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "modules/1.0.0": {
+      "type": "project",
+      "path": "../modules/modules.csproj",
+      "msbuildProject": "../modules/modules.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "System.Data.SqlClient >= 4.8.2"
+      "System.Data.SqlClient >= 4.8.2",
+      "modules >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -478,7 +494,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Ahlam\\Desktop\\webApi\\modules\\modules.csproj": {
+              "projectPath": "C:\\Users\\Ahlam\\Desktop\\webApi\\modules\\modules.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

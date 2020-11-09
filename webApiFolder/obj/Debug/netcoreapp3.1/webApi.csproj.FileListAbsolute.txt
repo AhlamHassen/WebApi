@@ -58,3 +58,5 @@ C:\Users\Ahlam\Desktop\webApi\webApiFolder\obj\Debug\netcoreapp3.1\webApi.csproj
 C:\Users\Ahlam\Desktop\webApi\webApiFolder\obj\Debug\netcoreapp3.1\staticwebassets\webApi.StaticWebAssets.Manifest.cache
 C:\Users\Ahlam\Desktop\webApi\webApiFolder\obj\Debug\netcoreapp3.1\staticwebassets\webApi.StaticWebAssets.xml
 C:\Users\Ahlam\Desktop\webApi\webApiFolder\obj\Debug\netcoreapp3.1\webApi.genruntimeconfig.cache
+C:\Users\Ahlam\Desktop\webApi\webApiFolder\bin\Debug\netcoreapp3.1\modules.dll
+C:\Users\Ahlam\Desktop\webApi\webApiFolder\bin\Debug\netcoreapp3.1\modules.pdb

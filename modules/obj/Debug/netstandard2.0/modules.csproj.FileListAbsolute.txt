@@ -1,0 +1,9 @@
+C:\Users\Ahlam\Desktop\webApi\modules\bin\Debug\netstandard2.0\modules.deps.json
+C:\Users\Ahlam\Desktop\webApi\modules\bin\Debug\netstandard2.0\modules.dll
+C:\Users\Ahlam\Desktop\webApi\modules\bin\Debug\netstandard2.0\modules.pdb
+C:\Users\Ahlam\Desktop\webApi\modules\obj\Debug\netstandard2.0\modules.csprojAssemblyReference.cache
+C:\Users\Ahlam\Desktop\webApi\modules\obj\Debug\netstandard2.0\modules.AssemblyInfoInputs.cache
+C:\Users\Ahlam\Desktop\webApi\modules\obj\Debug\netstandard2.0\modules.AssemblyInfo.cs
+C:\Users\Ahlam\Desktop\webApi\modules\obj\Debug\netstandard2.0\modules.csproj.CoreCompileInputs.cache
+C:\Users\Ahlam\Desktop\webApi\modules\obj\Debug\netstandard2.0\modules.dll
+C:\Users\Ahlam\Desktop\webApi\modules\obj\Debug\netstandard2.0\modules.pdb
